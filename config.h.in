@@ -1,0 +1,2 @@
+#define cpp_stl_VERSION_MAJOR @cpp_stl_VERSION_MAJOR@
+#define cpp_stl_VERSION_MINOR @cpp_stl_VERSION_MINOR@
